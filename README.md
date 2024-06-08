@@ -1,5 +1,5 @@
 # POO-Project
-Object-Oriented Programming Project that consisted of creating a Fitness application.
+Projeto de Programacão Orientada de Objetos que consistiu em fazer uma aplicacão de Fitness.
 
 Autores :
 * [Tiago Guedes](https://github.com/guedes674)
